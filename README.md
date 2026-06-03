@@ -1,15 +1,17 @@
 # Contribution [#]: [Issue Title]
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Siyam Seid]  
-**Issue:** [GitHub issue link]  
+**Contribution Number:** [1 / 2 / 3]
+**Student:** [Siyam Seid]
+**Issue:** [[(https://github.com/release-plz/release-plz)]]
 **Status:** [Phase I] [Complete]
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I chose this issue because it seems like a good way to get started with contributing to open source without feeling overwhelmed by a large code change. Even though it focuses on documentation, I think it’s important because people rely on documentation to understand how to use a project correctly. Working on this issue will give me a chance to learn how the repository is organized, how the maintainers work, and what the contribution process looks like in a real project.
+
+This issue also matches my goal of gaining more experience with GitHub and open-source development. As a computer science student, I’ve worked on class projects and personal projects, but I haven’t had much experience contributing to software that is actively used and maintained by others. Through this issue, I hope to learn how to navigate an unfamiliar codebase, make meaningful contributions, and communicate professionally through pull requests and code reviews. I think it will be a great first step toward becoming more comfortable contributing to larger open-source projects in the future.
 
 ---
 
