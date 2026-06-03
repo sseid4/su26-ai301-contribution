@@ -1,8 +1,11 @@
 # Contribution [#]: [Issue Title]
 
 **Contribution Number:** [1 / 2 / 3]
+
 **Student:** [Siyam Seid]
+
 **Issue:** [[(https://github.com/release-plz/release-plz)]]
+
 **Status:** [Phase I] [Complete]
 
 ---
