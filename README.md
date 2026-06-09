@@ -1,4 +1,4 @@
-# Contribution 2488: Keep action up to date in docs
+# Contribution 2488: Keep Action up to Date in Docs
 
 **Contribution Number:** 1
 **Student:** Siyam Seid
